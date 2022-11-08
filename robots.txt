@@ -1,0 +1,3 @@
+https://solanafahey.github.io
+User-agent: *
+Allow:/
